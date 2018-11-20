@@ -1,4 +1,11 @@
-﻿using UnityEngine;
+﻿/*
+	SmoothOverheadCamera
+	by David Koenig
+	https://focusedgamedev.com
+	Released under MIT license.
+*/
+
+using UnityEngine;
 
 public class SmoothOverheadCamera : MonoBehaviour
 {
